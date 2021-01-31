@@ -1,1 +1,1 @@
-# SimpleDTO
+# Sample DTO
